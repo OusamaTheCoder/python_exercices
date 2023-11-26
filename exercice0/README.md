@@ -1,6 +1,6 @@
 # Exercise 0
 
-    Print the Python version to the console.
+Print the Python version to the console.
 
 # Expected result:
 
