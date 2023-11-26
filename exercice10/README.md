@@ -4,11 +4,11 @@ Consider the *palindromic numbers*. A palindromic or symmetric number is a numbe
 
 Some examples of palindromic numbers:
 
-    - 363
+- 363
 
-    - 2882
+- 2882
 
-    - 29492
+- 29492
 
 Implement a function called `is_palindrome()` that checks if the passed number is palindromic decimal and binary.
 
