@@ -44,6 +44,6 @@ Happy coding and enjoy the journey of advancing your Python skills!
 
 ---
 
-**Author: `OusamaTheCoder`
+**Author**: `OusamaTheCoder`
 
 ---
