@@ -16,9 +16,9 @@ Examples of composite numbers: `4, 6, 8, 9, 10, 12, 14, 15, 16, ...`
 
 We can break down a composite number into prime factors. For example:
 
-    - 15 = 3 * 5
+- 15 = 3 * 5
 
-    - 36 = 2 * 2 * 3 * 3
+- 36 = 2 * 2 * 3 * 3
 
 The largest prime factor for 15 is 5, and for 36 is 3.
 
