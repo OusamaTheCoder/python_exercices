@@ -16,11 +16,11 @@ Examples of composite numbers: `4, 6, 8, 9, 10, 12, 14, 15, 16, ...`
 
 We can break down a composite number into prime factors. For example:
 
-    - 15 = 3 * 5
+- 15 = 3 * 5
 
-    - 36 = 2 * 2 * 3 * 3
+- 36 = 2 * 2 * 3 * 3
 
-    - 48 = 2 * 2 * 2 * 2 * 3
+- 48 = 2 * 2 * 2 * 2 * 3
 
 Implement a function that takes a natural number as an argument and returns a list containing the prime factorization of that number. Present the solution in the form of a function called `calculate()`.
 
